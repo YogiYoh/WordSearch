@@ -11,7 +11,7 @@ Features:
   - Handles words in multiple orientations (horizontal, vertical, diagonal)
 
 How to execute: 
-To execute the program, take out one of the '.txt' files in the "textfiles" directory and then type './wordsearch puzzle#.txt' in the terminal to run the word search algorithm on the specified puzzle file (replace # with the corresponding grid size). After running the program type your word, and it will read the grid of letters
+To execute the program, take out one of the '.txt' files in the "textfiles" directory and then type './wordsearch puzzle#.txt' in the terminal to run the word search algorithm on the specified puzzle file (replace # with the corresponding puzzle files). After running the program type your word, and it will read the grid of letters
 from the file displaying the results in the terminal.
 
 
